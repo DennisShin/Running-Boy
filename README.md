@@ -13,4 +13,5 @@
 
 <img width="796" alt="image" src="https://github.com/DennisShin/Running-Boy/assets/83376929/b940956d-f792-4f33-8efb-ae7f6c32af58">
 
-<img width="797" alt="image" src="https://github.com/DennisShin/Running-Boy/assets/83376929/aba3ff4b-7cf9-44f4-a470-ec57946c235e">
+<img width="793" alt="image" src="https://github.com/DennisShin/Running-Boy/assets/83376929/9bada0af-4512-4ac9-9dd8-2cb506b08d6d">
+
